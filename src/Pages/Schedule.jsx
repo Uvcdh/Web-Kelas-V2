@@ -35,7 +35,6 @@ const Schedule = () => {
         Rabu,
         Kamis,
         Jumat,
-        sabtu,
     ]
 
     // Menampilkan komponen berdasarkan hari saat ini
